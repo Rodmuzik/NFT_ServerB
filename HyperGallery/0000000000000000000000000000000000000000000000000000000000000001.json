@@ -1,0 +1,20 @@
+{
+"external_url":"https://opensea.io/collection/hsh-hg",
+"description":"This is HyperSenseHuman’s Hyper Gallery collection. Each piece in this collection will tease a part of our 3D collection and our Hyperverse. For more information, please join our Discord.",
+"animation_url":"https://hypersensehuman.io/HyperGallery/Source/ep1.html",
+"image":"https://hypersensehuman.io/HyperGallery/img/ep1.gif",
+"interactive_nft":
+{
+"version":"0.0.9",
+"code_uri":"https://hypersensehuman.io/HyperGallery/Source/ep1.html"
+},
+"script_type":"p5js",
+"traits":[
+		{"trait_type": "Episode", "value": "1"}, 
+		{"trait_type": "Name", "value": "A Day In Hyperverse"}, 
+		{"trait_type": "Edition", "value": "Special"}
+	],
+"generator_url":"https://hypersensehuman.io/HyperGallery/Source/ep1.html",
+"license":"NFT License",
+"name":"A Day In Hyperverse \n Episode #1"
+}

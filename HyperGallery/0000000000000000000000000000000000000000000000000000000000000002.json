@@ -1,0 +1,20 @@
+{
+"external_url":"https://opensea.io/collection/hsh-hg",
+"description":"This is HyperSenseHuman’s Hyper Gallery collection. Each piece in this collection will tease a part of our 3D collection and our Hyperverse. For more information, please join our Discord..",
+"animation_url":"https://hypersensehuman.io/HyperGallery/Source/ep2.html",
+"image":"https://hypersensehuman.io/HyperGallery/img/ep2.gif",
+"interactive_nft":
+{
+"version":"0.0.9",
+"code_uri":"https://hypersensehuman.io/HyperGallery/Source/ep2.html"
+},
+"script_type":"p5js",
+"traits":[
+		{"trait_type": "Episode", "value": "2"}, 
+		{"trait_type": "Name", "value": "Start Dust Journey"}, 
+		{"trait_type": "Edition", "value": "Limited"}
+	],
+"generator_url":"https://hypersensehuman.io/HyperGallery/Source/ep2.html",
+"license":"NFT License",
+"name":"Start Dust Journey \n Episode #2"
+}
